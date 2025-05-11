@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(15, 40, 30);
+    color: rgb(123, 198, 164);
+}
+h1{
+    text-align: center;
+    color: rgb(225, 252, 240);
+}
+h3{
+    text-align: center;
+    color: rgb(225, 252, 240);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(123, 198, 164);
+    border: solid;
+    border-radius: 10%;
+    text-align: center;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 3px;
+    transition: 0.5s;
+}
+
+a:hover{
+  background-color: #3e8e41;
+  color: rgb(225, 252, 240);
+}
